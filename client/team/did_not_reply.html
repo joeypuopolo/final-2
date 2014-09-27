@@ -1,0 +1,21 @@
+<template name="tDidNotReply">
+<h2>Did Not Reply</h2>
+<p class="badge">{{didNotReplyCount}} Did Not Reply Yet</p>
+{{#if cDidNotReply}}
+  <ol>
+    {{#each cDidNotReply}}
+      <li>
+        {{firstName}} <span class="badge">{{gerseyNumber}}</span>
+        <span><em>({{gameNotes}})</em></span> 
+        {{> tRemoveEditPlayer}}
+        <!-- <ul>
+          <li>{{fieldPosition}}</li>
+        </ul> -->
+      </li>
+    {{/each}}
+  </ol>
+
+{{else}}
+<p>no players on this team</p>
+{{/if}}
+</template>

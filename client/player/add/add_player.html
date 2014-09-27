@@ -1,0 +1,35 @@
+<template name="tAddPlayer">
+  <div class="player-container">
+    <div class="player">
+      <button type="button" class="btn btn-default btn-lg player-edit">
+        <span class="glyphicon glyphicon-user">&nbsp;</span>Add Player
+      </button>
+
+      {{#if sPlayerEdit}}
+
+      <input type="text" class="form-control first-name" placeholder="first name">
+      <input type="email" class="form-control email-address" placeholder="email address">
+      <input type="text" class="form-control field-position" placeholder="field position">
+     <!--  <input type="text" class="form-control game-status" placeholder="game status"> -->
+     <select class="game-status form-control">
+      <option value="starting">Starting</option>
+      <option value="sub">Substitute</option>
+      <option value="out">Not Playing</option>
+      <option value="legacy">Former Player</option>
+    </select>
+      <input type="text" class="form-control gersey-number" placeholder="gersey number">
+      <input type="text" class="form-control season-fee-owed" placeholder="season fee">
+      <input type="text" class="form-control season-fee-paid" placeholder="season fee paid">
+      <input type="text" class="form-control game-notes" placeholder="games notes">
+      <a class="btn btn-success btn-xs player-add">
+        <span class="glyphicon glyphicon-ok"></span>
+      </a>
+      <a type="button" class="btn btn-danger btn-xs player-remove">
+        <span class="glyphicon glyphicon-remove"></span>
+      </a>
+      {{/if}}
+    </div>
+    <!-- END .player -->
+  </div>
+  <!-- END .player-container -->
+</template>

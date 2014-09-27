@@ -1,0 +1,1099 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"even",
+				"events	Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"Se",
+				"Session.get	Meteor: Session.get(key)"
+			],
+			[
+				"Up",
+				"updateCalEvent"
+			],
+			[
+				"Cal",
+				"calEvents"
+			],
+			[
+				"Cale",
+				"calEvent"
+			],
+			[
+				"Ses",
+				"Session.set	Meteor: Session.set(key, value)"
+			],
+			[
+				"f",
+				"f	Anonymous Function"
+			],
+			[
+				"full",
+				"fullcal	full-calender"
+			],
+			[
+				"ful",
+				"fullcal	full-calender"
+			],
+			[
+				"fullca",
+				"fullcal	full-calender"
+			],
+			[
+				"fullcal",
+				"fullcal	full_calender"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"text",
+				"text-indent"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"la",
+				"langauges"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.html",
+			"settings":
+			{
+				"buffer_size": 882,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/phowley/Desktop/week_08_lub/client/player/edit/edit_player.js",
+			"settings":
+			{
+				"buffer_size": 1,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/phowley/Desktop/week_08_lub/client/main.html",
+			"settings":
+			{
+				"buffer_size": 358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.js",
+			"settings":
+			{
+				"buffer_size": 3520,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"gist",
+				"Gist: Insert Gist"
+			],
+			[
+				"met",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"packrm",
+				"Package Control: Remove Package"
+			],
+			[
+				"gi",
+				"Gist: Insert Gist"
+			],
+			[
+				"jumbo",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"tem",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"gis",
+				"Gist: Insert Gist"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"git",
+				"Gist: Open Gist"
+			],
+			[
+				"g",
+				"Gist: Insert Gist"
+			],
+			[
+				"table",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"jum",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"ju",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"eve",
+				"Snippet: events"
+			],
+			[
+				"input",
+				"Snippet: bs3-input-text"
+			],
+			[
+				"each",
+				"Snippet: h-each"
+			],
+			[
+				"tabl",
+				"Snippet: bs3-table-bordered"
+			],
+			[
+				"he",
+				"Snippet: bs3-page header"
+			],
+			[
+				"mett",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"head",
+				"Snippet: bs3-page header"
+			],
+			[
+				"rout",
+				"Snippet: router"
+			],
+			[
+				"nav",
+				"Snippet: bs3-navbar-responsive"
+			],
+			[
+				"lay",
+				"Snippet: layout-new"
+			],
+			[
+				"less",
+				"Snippet: add-less"
+			],
+			[
+				"lab",
+				"Snippet: label-text-input"
+			],
+			[
+				"metif",
+				"Snippet: Meteor {{#if}}"
+			],
+			[
+				"label",
+				"Snippet: label-text-input"
+			],
+			[
+				"chec",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"check",
+				"Snippet: bs3-input-checkbox"
+			],
+			[
+				"temp",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"event",
+				"Snippet: events"
+			],
+			[
+				"heder",
+				"Snippet: bs3-page header"
+			],
+			[
+				"col6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"col",
+				"Snippet: bs3-col-3"
+			],
+			[
+				"row",
+				"Snippet: bs3-row"
+			],
+			[
+				"addless",
+				"Snippet: add-less"
+			],
+			[
+				"layou",
+				"Snippet: layout-new"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"lex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"mod",
+				"Snippet: bs3-modal"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"butt",
+				"Snippet: bs3-button-success"
+			],
+			[
+				"temevent",
+				"Snippet: Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"modal",
+				"Snippet: bs3-modal"
+			],
+			[
+				"page",
+				"Snippet: bs3-page header"
+			],
+			[
+				"moda",
+				"Snippet: bs3-modal"
+			],
+			[
+				"Templ",
+				"Snippet: Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"template",
+				"Snippet: Meteor: Template.myTemplate.events(eventMap)"
+			],
+			[
+				"mettem",
+				"Snippet: Meteor: Template.myTemplate.helpers(helpers)"
+			],
+			[
+				"hidde",
+				"Snippet: bs3-input-hidden"
+			],
+			[
+				"boo",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"new me",
+				"Snippet: new Meteor.Collection(name, [options])"
+			],
+			[
+				"me",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"mete",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"fromex",
+				"Format CSS: Expanded"
+			],
+			[
+				"format ",
+				"Format CSS: Expanded"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"packr",
+				"Package Control: Remove Package"
+			],
+			[
+				"ht",
+				"HTMLBeautify"
+			],
+			[
+				"css",
+				"Format CSS: Expanded"
+			],
+			[
+				"boopi",
+				"Snippet: bs3-button-group-vertical"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"b3",
+				"Snippet: bs3-jumbotron"
+			],
+			[
+				"b3co6",
+				"Snippet: bs3-col-6"
+			],
+			[
+				"packing",
+				"Package Control: Install Package"
+			],
+			[
+				"boog",
+				"Snippet: Bootstrap basic two column grid"
+			],
+			[
+				"projs",
+				"Project: Save As"
+			],
+			[
+				"boonav",
+				"Snippet: Bootstrap navigation bar"
+			],
+			[
+				"csslin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"packre",
+				"Package Control: Remove Package"
+			],
+			[
+				"boots",
+				"Snippet: Bootstrap accordion"
+			],
+			[
+				"pref",
+				"Autoprefix CSS"
+			],
+			[
+				"prefi",
+				"Autoprefix CSS"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"meteor",
+				"Snippet: Meteor {{#if}}"
+			],
+			[
+				"templ",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"meteori",
+				"Snippet: Meteor {{#if}}"
+			],
+			[
+				"meteif",
+				"Snippet: Meteor {{#if}}"
+			],
+			[
+				"metete",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"packrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"metetemp",
+				"Snippet: Meteor Template Tag"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pojs",
+				"Project: Save As"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/phowley/Desktop/week_08_lub",
+		"/Users/phowley/Desktop/week_08_lub/client",
+		"/Users/phowley/Desktop/week_08_lub/client/player",
+		"/Users/phowley/Desktop/week_08_lub/client/player/add",
+		"/Users/phowley/Desktop/week_08_lub/client/player/edit"
+	],
+	"file_history":
+	[
+		"/Users/phowley/Desktop/week_08_lub/client/main.js",
+		"/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.html",
+		"/Users/phowley/Desktop/week_08_lub/client/main.html",
+		"/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.js",
+		"/Users/phowley/Desktop/lubuilder/client/main.js",
+		"/Users/phowley/Desktop/lubuilder/client/edit_player.js",
+		"/Users/phowley/Desktop/lubuilder/client/edit_player.html",
+		"/Users/phowley/Desktop/lubuilder/client/main.html",
+		"/Users/phowley/Desktop/lubuilder/client/css/styles.less",
+		"/Users/phowley/Desktop/lubuilder/collections/player.js",
+		"/Users/phowley/Desktop/lubuilder/lubuilder.html",
+		"/Users/phowley/Desktop/lubuilder/server/main.js",
+		"/Users/phowley/Desktop/lubuilder/lubuilder.js",
+		"/Users/phowley/Desktop/lubuilder/lubuilder.css",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/junk.js",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/schedule.html",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/edit/schedule_edit.js",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/edit/schedule_edit.html",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/item/schedule_item.js",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/views/pages/schedule/schedule.js",
+		"/Users/phowley/Desktop/new_and_improved_scheduler/client/main.js",
+		"/Users/phowley/Dropbox/meteor-stuff/goal/lib/router.js",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/Users/phowley/Dropbox/meteor-stuff/goal/client/config/goal.sublime-project",
+		"/Users/phowley/.bash_profile",
+		"/var/folders/j7/wqmn83993fv38f7k3vjxp5wr0000gn/T/add_to_github.html",
+		"/Users/phowley/Desktop/fba2/client/views/pages/car_item.html",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/cars.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/cars.html",
+		"/Users/phowley/Desktop/fba2/client/views/common/hero_theme_bootswatch.css",
+		"/Users/phowley/Desktop/fba2/client/stylesheets/hero_bootstrap.less",
+		"/Users/phowley/Desktop/fba2/client/stylesheets/style.less",
+		"/Users/phowley/Desktop/fba2/client/stylesheets/sites/home.import.less",
+		"/Users/phowley/Desktop/fba2/collections/collections.js",
+		"/Users/phowley/Desktop/fba2/client/views/common/layout.html",
+		"/Users/phowley/Desktop/fba2/client/views/common/menu.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/phowley/Desktop/fba2/.meteor/local/build/programs/ctl/node_modules/http-proxy/node_modules/eventemitter3/benchmarks/run/multiple-emitters.js",
+		"/Users/phowley/Desktop/fba2/client/main.js",
+		"/Users/phowley/Desktop/carbrands/connections/car_list.js",
+		"/Users/phowley/Desktop/carbrands/client/main.html",
+		"/Users/phowley/Desktop/carbrands/client/main.js",
+		"/Users/phowley/Desktop/carbrands/client/view/common/layout.html",
+		"/Users/phowley/Desktop/carbrands/client/view/common/menu.html",
+		"/Users/phowley/Desktop/carbrands/lib/router.js",
+		"/Users/phowley/Desktop/carbrands/client/view/pages/about.html",
+		"/Users/phowley/Desktop/carbrands/client/view/pages/home.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/todos/todo_item/todo_item.less",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/lists.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/todos/todos.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/todos/todos.js",
+		"/Users/phowley/Desktop/todo_list/client/main.js",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/list_item.js",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/lists.js",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/list_item.html",
+		"/Users/phowley/Desktop/todo_list/client/views/common/layout.html",
+		"/Users/phowley/Desktop/todo_list/client/views/common/layout.js",
+		"/Users/phowley/Desktop/todo_list/collections/collections.js",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/todos/todo_item.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/list_item.less",
+		"/Users/phowley/Desktop/todo_list/packages/blaze-layout/LICENSE.txt",
+		"/Users/phowley/Desktop/todo_list/packages/blaze-layout/layout.js",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/lists/lists.css",
+		"/Users/phowley/Desktop/todo_list/client/views/common/menu.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/home.html",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/todos/todos.css",
+		"/Users/phowley/Desktop/todo_list/packages/blaze-layout/History.md",
+		"/Users/phowley/Desktop/todo_list/client/main.html",
+		"/Users/phowley/Desktop/todo_list/lib/router.js",
+		"/Users/phowley/Desktop/todo_list/client/smart.json",
+		"/Users/phowley/Desktop/todo_list/.meteor/local/db/local.0",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/meteor/handlebars/h-if.sublime-snippet",
+		"/Users/phowley/Desktop/todo_list/client/views/pages/about.html",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/meteor/templates/router.sublime-snippet",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/meteor/templates/crud.sublime-snippet",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/meteor/templates/layout.sublime-snippet",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/meteor/templates/layout.snippet.sublime",
+		"/Users/phowley/Desktop/todo_list/todo_list.html",
+		"/Users/phowley/Desktop/fba2/lib/router.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/project_form.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/projects.html",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/project_row.html",
+		"/Users/phowley/Desktop/fba2/server/server.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/project_form.html",
+		"/Users/phowley/Desktop/fba10/client/main.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/posts/post_edit.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/player_form.js",
+		"/Users/phowley/Desktop/fba10/lib/helpers/helpers.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/players.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/posts/post_edit.html",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/player_item.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/players.html",
+		"/Users/phowley/Desktop/fba10/lib/router.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/player_form.html",
+		"/Users/phowley/Desktop/fba10/collections/players.js",
+		"/Users/phowley/Desktop/fba10/client/views/pages/players/player_item.html",
+		"/Users/phowley/Desktop/fba10/.meteor/local/build/programs/client/app/client/views/pages/players/player_item.js",
+		"/Users/phowley/Desktop/fba10/packages/less-fontawesome-4/lib/less/larger.import.less",
+		"/Users/phowley/Desktop/fba10/.meteor/local/build/programs/ctl/node_modules/fibers/test/already-running.js",
+		"/Users/phowley/Desktop/fba10/.meteor/local/build/programs/client/app/client/views/pages/projects/template.project_row.js",
+		"/Users/phowley/Desktop/fba10/packages/blaze-layout/layout.js",
+		"/Users/phowley/Desktop/fba10/.meteor/packages",
+		"/Users/phowley/Desktop/fba10/packages/less-bootstrap-3/lib/js/alert.js",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/phowley/Desktop/fba2/server/utility.js",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/html/label-text-input.sublime-snippet",
+		"/Users/phowley/Desktop/fba2/lib/helpers/helpers.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/projects/projects.js",
+		"/Users/phowley/Desktop/fba2/collections/projects.js",
+		"/Users/phowley/Desktop/fba2/client/views/pages/home.html",
+		"/Users/phowley/Desktop/fba2/client/views/pages/about.html",
+		"/Users/phowley/Desktop/fba2/client/views/pages/homepage.html",
+		"/Users/phowley/Desktop/full_blown_app/client/views/projects.html",
+		"/Users/phowley/Desktop/full_blown_app/client/views/about.html",
+		"/Users/phowley/Desktop/full_blown_app/lib/router.js",
+		"/Users/phowley/Desktop/full_blown_app/client/views/menu.html",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/client/main.js",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/client/views/calendar/edit_event.html",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/client/views/calendar/calendar.html",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/client/views/calendar/calendar.js",
+		"/Users/phowley/Library/Application Support/Sublime Text 3/Packages/User/html/input-text.sublime-snippet",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/packages/iron-router/.build/npm/node_modules/connect/lib/middleware/methodOverride.js",
+		"/Users/phowley/Dropbox/meteor-stuff/calendar_app_tutorial/.meteor/local/build/programs/ctl/node_modules/esprima/test/module.html"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tMainApp",
+			"span",
+			"i",
+			"client",
+			"child",
+			"red",
+			"FT",
+			"Normal",
+			" 0px",
+			"task",
+			"todos",
+			"Todos",
+			"todos",
+			"Todos",
+			"todos",
+			"Todos",
+			"odos",
+			"Todos",
+			"todos",
+			"Todos",
+			"ul",
+			"TodoItem",
+			"TodosPanel",
+			"#",
+			"id",
+			"compileCSS(",
+			"schedule",
+			"league",
+			"schedule",
+			"nav",
+			"div",
+			"Button",
+			"button",
+			"a",
+			"#navlist",
+			"100px",
+			"title",
+			"...",
+			"password",
+			"username",
+			"email",
+			"developer.",
+			"p",
+			"mgrTabMacias",
+			"LA",
+			"b()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Done"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/phowley/Desktop/week_08_lub/client/player/edit/edit_player.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/phowley/Desktop/week_08_lub/client/main.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								57,
+								57
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/phowley/Desktop/week_08_lub/client/player/add/add_player.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								276,
+								373
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 61.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "week_08.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.html",
+				"client/main.html"
+			],
+			[
+				"main",
+				"client/main.js"
+			],
+			[
+				"cars",
+				"client/views/pages/cars.html"
+			],
+			[
+				"router",
+				"lib/router.js"
+			],
+			[
+				"menu",
+				"client/views/common/menu.html"
+			],
+			[
+				"lists.js",
+				"client/views/pages/lists/lists.js"
+			],
+			[
+				"home",
+				"client/views/pages/home.html"
+			],
+			[
+				"play",
+				"client/views/pages/players/player_form.js"
+			],
+			[
+				"player_ite",
+				"client/views/pages/players/player_item.js"
+			],
+			[
+				"pla",
+				"client/views/pages/players/players.js"
+			],
+			[
+				"player",
+				"client/views/pages/players/players.html"
+			],
+			[
+				"player_formhtml",
+				"client/views/pages/players/player_form.html"
+			],
+			[
+				"player_forjs",
+				"client/views/pages/players/player_form.js"
+			],
+			[
+				"players.js",
+				"client/views/pages/players/players.js"
+			],
+			[
+				"cal",
+				"client/views/calendar/calendar.js"
+			],
+			[
+				"",
+				"leaderboard.html"
+			],
+			[
+				"todo_item",
+				"client/views/todos/todo_item/todo_item.js"
+			],
+			[
+				"todos_index.ht",
+				"client/views/todos/todos_index/todos_index.html"
+			],
+			[
+				"schedulejs",
+				"client/views/games/schedules/schedules_list.js"
+			],
+			[
+				"lis",
+				"client/views/games/schedules/schedules_list.html"
+			],
+			[
+				"a",
+				"add_songs_app.js"
+			],
+			[
+				"tod",
+				"todos.js"
+			],
+			[
+				"css",
+				"css/styles.css"
+			],
+			[
+				"sty",
+				"less/styles.less"
+			],
+			[
+				"paly",
+				"client/views/players/player_list.html"
+			],
+			[
+				"rout",
+				"lib/router.js"
+			],
+			[
+				"men",
+				"client/views/application/includes/menu.html"
+			],
+			[
+				"ind",
+				"client/index.html"
+			],
+			[
+				"pr",
+				"proactive.js"
+			],
+			[
+				"inde",
+				"client/index.html"
+			],
+			[
+				"s",
+				"style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"accjs",
+				"accounts.js"
+			],
+			[
+				"app",
+				"public/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Dropbox/meteor-stuff/goal/client/config/goal.sublime-project"
+			],
+			[
+				"go",
+				"~/Dropbox/meteor-stuff/goal/client/config/goal.sublime-project"
+			],
+			[
+				"tod",
+				"~/Dropbox/meteor-stuff/todo_list/client/config/todo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

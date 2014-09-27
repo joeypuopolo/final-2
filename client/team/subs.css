@@ -1,0 +1,18 @@
+.danger {
+  color: red;
+}
+.success {
+	display: none;
+  color: green;
+}
+.caution {
+	display: none;
+  color: yellow;
+}
+
+/*
+This is definitely the best way to handle the issue of only showing money owed.
+It is still important to have the other information accessible, even if it may not really
+be important to see it on the lineup builder.
+
+*/

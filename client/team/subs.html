@@ -1,0 +1,17 @@
+<template name="tSubs">
+<h2>Substitutes</h2>
+<p class="badge">{{subCount}} subs</p>
+{{#if haveSubs}}
+  <ol>
+    {{#each cPlayers}}
+      <li>
+        {{firstName}} <span class="{{moneyOwedStyle}}">{{moneyOwed}}</span><span class="badge">{{gerseyNumber}}</span> 
+        <span><em>({{gameNotes}})</em></span>
+        {{> tRemoveEditPlayer}}
+      </li>
+    {{/each}}
+  </ol>
+{{else}}
+no subs
+{{/if}}
+</template>

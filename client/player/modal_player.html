@@ -1,0 +1,53 @@
+<template name="tModalPlayer">
+
+    <!-- modal for editing player -->
+    <div class="modal fade" id="modal-id">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                    <h4 class="modal-title">Starting Player</h4>
+                </div>
+                <div class="modal-body">
+                    <div class="row">
+                        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                            <label for="firstName">First Name</label>
+                            <input type="text" class="first-name form-control" name="firstName" value="{{cPlayer.firstName}}" />
+                            <label for="email">Email Address</label>
+                            <input type="text" class="email-address form-control" name="emailAddress" value="{{cPlayer.emailAddress}}" />
+                            <label for="fieldPosition">Field Position</label>
+                            <input type="text" class="field-position form-control" name="fieldPosition" value="{{cPlayer.fieldPosition}}" />
+                            <!-- <input type="text" class="game-status form-control" name="gameStatus" value="{{cPlayer.gameStatus}}" /> -->
+                            <label for="gameStatus">Game Status</label>
+                            <select class="game-status form-control">
+                                <option value="starting">Starting</option>
+                                <option value="sub">Substitute</option>
+                                <option value="noReply">Did Not Reply</option>
+                                <option value="out">Not Playing</option>
+                                <option value="former">Former Player</option>
+                            </select>
+                            <label for="gerseyNumber">Gersey Number</label>
+                            <input type="text" class="gersey-number form-control" name="gerseyNumber" value="{{cPlayer.gerseyNumber}}" />
+                            <label for="seasonFeeOwed">Season Fee Owed</label>
+                            <input type="text" class="season-fee-owed form-control" name="seasonFeeOwed" value="{{cPlayer.seasonFeeOwed}}" />
+                            <label for="seasonFeePaid">Season Fee Paid</label>
+                            <input type="text" class="season-fee-paid form-control" name="seasonFeePaid" value="{{cPlayer.seasonFeePaid}}" />
+                            <label for="seasonFeePaid">Game Notes</label>
+                            <input type="text" class="game-notes form-control" name="gameNotes" value="{{cPlayer.gameNotes}}" />
+                        </div>
+                    </div>
+                </div>
+                <!-- END .modal-body -->
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button type="button" class="btn btn-primary save-changes">Save changes</button>
+                </div>
+            </div>
+            <!-- /.modal-content -->
+        </div>
+        <!-- /.modal-dialog -->
+    </div>
+    <!-- /.modal -->
+    <!-- END modal for editing player -->
+
+</template>

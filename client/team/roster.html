@@ -1,0 +1,22 @@
+<template name="tRoster">
+<h2>Game Day Roster</h2>
+<p class="badge">{{gameDayRosterCount}} players this week</p>
+<p class="badge">{{totalRoster}} total players</p>
+{{#if cRoster}}
+  <ol>
+    {{#each cRoster}}
+      <li>
+        {{firstName}} <span class="{{moneyOwedStyle}}">{{moneyOwed}}</span><span class="badge">{{gerseyNumber}}</span>
+        <span><em>({{gameNotes}})</em></span>
+        {{> tRemoveEditPlayer}}
+        <!-- <ul>
+          <li>{{fieldPosition}}</li>
+        </ul> -->
+      </li>
+    {{/each}}
+  </ol>
+
+{{else}}
+<p>no starting players</p>
+{{/if}}
+</template>

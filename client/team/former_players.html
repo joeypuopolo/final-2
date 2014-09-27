@@ -1,0 +1,21 @@
+<template name="tFormerPlayers">
+<h2>Former Players</h2>
+<p class="badge">{{formerCount}} former players</p>
+{{#if cFormerPlayers}}
+  <ol>
+    {{#each cFormerPlayers}}
+      <li>
+        {{firstName}} <span class="badge">{{gerseyNumber}}</span>
+        <span><em>({{gameNotes}})</em></span>
+        {{> tRemoveEditPlayer}}
+        <!-- <ul>
+          <li>{{fieldPosition}}</li>
+        </ul> -->
+      </li>
+    {{/each}}
+  </ol>
+
+{{else}}
+<p>no players on this team</p>
+{{/if}}
+</template>

@@ -1,0 +1,17 @@
+<template name="tNotPlaying">
+  <h2>Out This Week</h2>
+  <p class="badge">{{outCount}} not playing</p>
+{{#if missingPlayers}}
+  <ol>
+    {{#each cPlayersOff}}
+      <li>
+        {{firstName}} <span class="{{moneyOwedStyle}}">{{moneyOwed}}</span><span class="badge">{{gerseyNumber}}</span>
+        <span><em>({{gameNotes}})</em></span>
+        {{> tRemoveEditPlayer}}
+      </li>
+    {{/each}}
+  </ol>
+{{else}}
+no subs
+{{/if}}
+</template>
